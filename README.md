@@ -1,2 +1,2 @@
 # site for beauty pageant
-## конкурс для замужних женщин и мам
+## competition for married women and mothers
